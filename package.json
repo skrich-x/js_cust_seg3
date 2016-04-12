@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^5.1.11",
+    "browser-sync": "^2.7.4",
+    "mailgun-js":"^0.7.8"
+  }
+}
